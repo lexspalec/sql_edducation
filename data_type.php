@@ -6,7 +6,7 @@
 <body>
 <h1>SQL Типы данных</h1>
 <h2>Числовые типы данных</h2>
-<table cellpadding="5" cellspacing="0">
+<table cellpadding="5" cellspacing="0" bordercolor="black">
     <tr>
     <td width="15%">Тип данных</td>
     <td width="15%" >Объем памяти</td>
