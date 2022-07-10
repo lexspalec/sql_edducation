@@ -1,12 +1,10 @@
 <html>
      <head>
-     <link rel="stylesheet" type="text/css" href="/style.css" />
           </head>
-      <link rel="stylesheet" type="text/css" href="/fixstyles.css">
 <body>
 <h1>SQL Типы данных</h1>
 <h2>Числовые типы данных</h2>
-<table cellpadding="5" cellspacing="0" bordercolor="black">
+<table cellpadding="5" cellspacing="0" border="2" bordercolor="black">
     <tr>
     <td width="15%">Тип данных</td>
     <td width="15%" >Объем памяти</td>
@@ -43,8 +41,8 @@
     <td>MEDIUMINT (M)</td>
     <td>3 байта</td>
     <td>от -8388608 до 8388608 или от 0 до 16777215</td>
-    <td class="left">Аналогично предыдущему, но с большим диапазоном.<br><br>
-    <i class="teg">Примеры:</i><br><br>
+    <td>Аналогично предыдущему, но с большим диапазоном.<br><br>
+    <i>Примеры:</i><br><br>
     MEDIUMINT  - хранит любое число в диапазоне от -8388608 до 8388608.<br><br>
     MEDIUMINT UNSIGNED - хранит любое число в диапазоне от 0 до 16777215.<br><br>
     MEDIUMINT (4) - предполагается, что значения будут четырехзначные, но по факту будет хранить и семизначные.<br><br>
