@@ -4,7 +4,7 @@
 <body>
 <h1>SQL Типы данных</h1>
 <h2>Числовые типы данных</h2>
-<table cellpadding="5" cellspacing="0" border="2" bordercolor="black">
+ <table bordercolor="red" border="2" width="100%">
     <tr>
     <td width="15%">Тип данных</td>
     <td width="15%" >Объем памяти</td>
